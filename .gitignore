@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+*.env
+
+# Data files
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Cache files
+*.cache
+.cache/
+.cache/*
+__pycache__/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Editor and IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
