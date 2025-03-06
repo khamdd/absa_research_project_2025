@@ -12,15 +12,8 @@ ENV/
 env.bak/
 *.env
 
-# Data files
-data/raw/
-data/processed/
-
 # Logs
 *.log
-
-# Notebook checkpoints
-.ipynb_checkpoints
 
 # OS-generated files
 .DS_Store
