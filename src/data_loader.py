@@ -2,13 +2,9 @@ import re
 import emoji
 import pandas as pd
 from unidecode import unidecode
-from nltk import download
-from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
 from difflib import get_close_matches
 from nltk.corpus import words
 import nltk
-import os
 
 nltk.data.path.append("nltk_data")
 
